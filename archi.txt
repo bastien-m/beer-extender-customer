@@ -1,0 +1,10 @@
+data modeles partages entre le client et le bar
+
+services couche par dessus les modeles faisant les operations sur les objets metiers
+
+client pour le consommateur api permettant a l application mobile/web de communiquer avec la base
+bar pour le bar, une interface web permettant de gerer son stock et parc de client
+
+app l application mobile se basant sur l api pour que le client finale puisse avoir acces a ses donnees et info (java android)
+
+webapp interface web pour le client, meme fonctionnalite que l app mobile mais sur navigateur)
